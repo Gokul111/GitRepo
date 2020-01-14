@@ -1,3 +1,3 @@
 # GitRepo
 Familiarizing Git
-//new message added
+//new message added now
